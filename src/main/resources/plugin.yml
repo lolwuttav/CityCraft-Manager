@@ -1,0 +1,12 @@
+main: info.citycraft.ccc.CityCraftCommander
+name: CityCraftCommander
+version: 1.0
+api-version: 1.13
+
+commands:
+  launch:
+    description: launches player with velocity
+    usage: /launch [velocity]
+  ccenchant:
+    description: enchants an item with a custom enchantment
+    usage: /ccenchant
